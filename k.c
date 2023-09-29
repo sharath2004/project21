@@ -1,4 +1,6 @@
 #include <stdio.h>
 int main{
-    printf("hello world");
+    int k;
+    scanf("%d",&k);
+    printf("%d",&k);
 }
